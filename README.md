@@ -55,7 +55,7 @@ Once you've finished installing the modlist, simply navigate to your installatio
 
 # Necessary MCM Tweak
 
-- Pause the game when you get a change, and choose Mod Configuration.
+- Pause the game when you get a chance, and choose Mod Configuration.
 
 - Go to Enhanced Item Info, and disable the option to show the Value/Weight. This is already handled by VUI+.
 
