@@ -64,5 +64,3 @@ Once you've finished installing the modlist, simply navigate to your installatio
 - MoreMojave - This mod is brand new to me, and adds a lot of new locations and enemies to the game. Be careful when exploring the more remote regions...
 
 - Functional Post Game Ending - This mod allows you to continue after the game has ended, and actually SEE your choices reflected in the world. 
-
-- Ludark's Alternative QuickStart for The Frontier - An alternative to the normal QuickStart for the Frontier. BE SURE TO DISABLE THIS IF DOING A LEGION PLAYTHROUGH!
