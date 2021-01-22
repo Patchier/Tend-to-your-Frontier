@@ -49,6 +49,10 @@ Install Tend To Your Frontier via Wabbajack
 
 Once you've finished installing the modlist, simply navigate to your installation folder for the modlist, open ModOrganizer.exe, and launch it via the New Vegas option, which should be selected for you. If not, simply choose it from the drop-down and click "run". 
 
+## Regarding the Frontier quick-start
+
+- As of the writing of this section, choosing the quick-start will enable to to place skill points anywhere you choose, up to the level of points you would have had at that time. However, perks only come in the form of presets. ONLY choose quick-start if you are okay with not being able to choose your perks up to level 12/15/20!
+
 # Necessary MCM Tweak
 
 - Pause the game when you get a change, and choose Mod Configuration.
