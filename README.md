@@ -51,7 +51,7 @@ Once you've finished installing the modlist, simply navigate to your installatio
 
 ## Regarding the Frontier quick-start
 
-- As of the writing of this section, choosing the quick-start will enable to to place skill points anywhere you choose, up to the level of points you would have had at that time. However, perks only come in the form of presets. ONLY choose quick-start if you are okay with not being able to choose your perks up to level 12/15/20! Also, should you choose this, after about 5-6 in-game hours, an NCR scout will appear and give you a pamphlet detailing their cause. Following this, you will be able to fast-travel to their camp.
+- As of the writing of this section, choosing the quick-start will enable to to place skill points anywhere you choose, up to the level of points you would have had at that time. However, perks only come in the form of presets. ONLY choose quick-start if you are okay with not being able to choose your perks up to level 12/15/20! Also, should you choose this, after about 5-6 in-game hours, an NCR scout will appear and give you a pamphlet detailing their cause. Following this, you will be able to fast-travel to their camp. AS OF THIS UPDATE, DO NOT CHOOSE THE LEGION START. IT WILL BREAK LEGION MAIN QUESTS! YOU WILL HAVE THE OPPORTUNITY TO JOIN THE LEGION IN THE FRONTIER!
 
 # Necessary MCM Tweak
 
