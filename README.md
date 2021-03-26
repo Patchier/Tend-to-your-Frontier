@@ -14,13 +14,13 @@ This ReadMe is designed to help you with installing and beginning your adventure
 
 ## SPECIFICATIONS
 
-- This list only has one minor MCM tweak, so be sure you pay attention!
+- This list does not have any specific MCM tweaks, but it DOES have an extra step during the installation phase. Be sure to follow ALL instructions.
 
 ## First off, you will need:
 
--   A clean, fresh, and LEGAL Steam installation of Fallout: New Vegas w/ all DLCs
+-   A clean, fresh, and LEGAL GOG or Steam installation of Fallout: New Vegas w/ all DLCs
 
--   67GB free to install the list itself
+-   60GB free to install the list itself
 
 ## Install Fallout: New Vegas
 
@@ -28,7 +28,7 @@ This ReadMe is designed to help you with installing and beginning your adventure
 
 - Once done, go ahead and re-install it. This ensures that any installs you have will be totally clean, which is important for the next steps. 
 
-- While you're here, run the game once, and choose whatever graphics settings you desire. However, be sure to go to "Advanced", then "Shadows", and disable them. They don't add much, and it'll save you on performance. 
+- While you're here, run the game once, and after the launcher has detected your graphics settings, you may close out of it. We just needed those initial INIs to be created. They will be superceded by the ones in my modlist.
 
 Install Tend To Your Frontier via Wabbajack
 -----------------------------------------
@@ -43,7 +43,13 @@ Install Tend To Your Frontier via Wabbajack
 
 5.  Downloads will auto-populate for you, but you can change that location if you so choose. 
 
-6.  From there, just click the "play" button and let it do the rest.
+6.  From there, just click the "play" button and let it do the rest. If you do not have Nexus Premium, you will have to follow along to the manual download prompts.
+
+7. Once the list has finished installing, open the folder you installed it to, and proceed to the "Game Folder Files" folder. 
+
+8. Copy the items inside of the Game Folder Files folder to your Fallout: New Vegas installation location. (NOTE: NOT THE FOLDER ITSELF, JUST WHAT'S IN IT.)
+
+9. Once the files are copied over, run the FalloutNVpatch.exe. This will patch your New Vegas exe to be Large Address Aware, letting you enjoy the list with a severely decreased risk of crashing.
 
 ## Starting the game
 
@@ -53,11 +59,9 @@ Once you've finished installing the modlist, simply navigate to your installatio
 
 - As of the writing of this section, choosing the quick-start will enable to to place skill points anywhere you choose, up to the level of points you would have had at that time. However, perks only come in the form of presets. ONLY choose quick-start if you are okay with not being able to choose your perks up to level 12/15/20! Also, should you choose this, after about 5-6 in-game hours, an NCR scout will appear and give you a pamphlet detailing their cause. Following this, you will be able to fast-travel to their camp. AS OF THIS UPDATE, DO NOT CHOOSE THE LEGION START. IT WILL BREAK LEGION MAIN QUESTS! YOU WILL HAVE THE OPPORTUNITY TO JOIN THE LEGION IN THE FRONTIER!
 
-# Necessary MCM Tweak
+## Vicious Vicious Vicious
 
-- Pause the game when you get a chance, and choose Mod Configuration.
-
-- Go to Enhanced Item Info, and disable the option to show the Value/Weight. This is already handled by VUI+.
+- After installing this list, if you were to click on the profile selection drop-down in the top lefthand corner of Mod Organizer, you will notice a separate profile titled "Vicious Vicious Vicious". This profile contains the same mods as Tend To Your Frontier, but includes a mod called Vicious Wastes, which increases the difficulty of the game significantly. It does this by altering the combat AI for most enemies in the game, setting a level 30 cap for the player, decreasing the amount of loot available to the player, and several other tweaks designed to increase the difficulty of the game. This profile is meant for players who enjoy a more hardcore experience, and should not be attempted by more casual players. For more information on Vicious Wastes, I recommend reading the page for it on the Nexus, linked here: https://www.nexusmods.com/newvegas/mods/56671?tab=description
 
 ## Mods to be aware of
 
@@ -65,6 +69,8 @@ Once you've finished installing the modlist, simply navigate to your installatio
 
 - The Frontier - What the whole list is built around. If you're downloading this, you already know what it is. If not, you'll soon find out. 
 
-- MoreMojave - This mod is brand new to me, and adds a lot of new locations and enemies to the game. Be careful when exploring the more remote regions...
+- The Living Desert - This mod adds new patrols, NPCs, and other things to the Mojave to make the world feel much more alive. 
 
 - Functional Post Game Ending - This mod allows you to continue after the game has ended, and actually SEE your choices reflected in the world. 
+
+- I Fought The Law - NCR Start - This mod places a note on Joe cobb's body should you kill him in Goodsprings. This will allow you to start I Fought The Law without working for Eddie in the NCRCF. 
