@@ -1,6 +1,6 @@
 # Tend To Your Frontier: A Fallout Experience 
 
-January 16th, 2021 - Full Install: ~67GB.
+March 25th, 2021 - Full Install: ~60GB.
 
 ## OVERVIEW
 
