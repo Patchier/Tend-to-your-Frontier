@@ -4,7 +4,7 @@ March 25th, 2021 - Full Install: ~60GB.
 
 ## OVERVIEW
 
-This ReadMe is designed to help you with installing and beginning your adventures in the Frontier. 
+This ReadMe is designed to help you with installing and beginning your adventures in the Frontier, alongside a few new quests.
 
 ## GOALS
 
@@ -24,7 +24,7 @@ This ReadMe is designed to help you with installing and beginning your adventure
 
 ## Install Fallout: New Vegas
 
-- This part is self-explanatory. You'll want to go to the installation of the game, and remove all files present in the install folder (For example, steamapps/common/Fallout New Vegas)
+- This part is self-explanatory. You'll want to go to the installation of the game, and remove all files present in the install folder (For example, steamapps/common/Fallout New Vegas) AND the Documents folder (Documents/My Games/FalloutNV)
 
 - Once done, go ahead and re-install it. This ensures that any installs you have will be totally clean, which is important for the next steps. 
 
@@ -51,6 +51,8 @@ Install Tend To Your Frontier via Wabbajack
 
 9. Once the files are copied over, run the FalloutNVpatch.exe. This will patch your New Vegas exe to be Large Address Aware, letting you enjoy the list with a severely decreased risk of crashing.
 
+10. IMPORTANT: IF YOU'RE USING GOG, DELETE THE FNV-Lang.esp PLUGIN. THIS IS UNNECESSARY. 
+
 ## Starting the game
 
 Once you've finished installing the modlist, simply navigate to your installation folder for the modlist, open ModOrganizer.exe, and launch it via the New Vegas option, which should be selected for you. If not, simply choose it from the drop-down and click "run". 
@@ -59,9 +61,6 @@ Once you've finished installing the modlist, simply navigate to your installatio
 
 - As of the writing of this section, choosing the quick-start will enable to to place skill points anywhere you choose, up to the level of points you would have had at that time. However, perks only come in the form of presets. ONLY choose quick-start if you are okay with not being able to choose your perks up to level 12/15/20! Also, should you choose this, after about 5-6 in-game hours, an NCR scout will appear and give you a pamphlet detailing their cause. Following this, you will be able to fast-travel to their camp. AS OF THIS UPDATE, DO NOT CHOOSE THE LEGION START. IT WILL BREAK LEGION MAIN QUESTS! YOU WILL HAVE THE OPPORTUNITY TO JOIN THE LEGION IN THE FRONTIER!
 
-## Vicious Vicious Vicious
-
-- After installing this list, if you were to click on the profile selection drop-down in the top lefthand corner of Mod Organizer, you will notice a separate profile titled "Vicious Vicious Vicious". This profile contains the same mods as Tend To Your Frontier, but includes a mod called Vicious Wastes, which increases the difficulty of the game significantly. It does this by altering the combat AI for most enemies in the game, setting a level 30 cap for the player, decreasing the amount of loot available to the player, and several other tweaks designed to increase the difficulty of the game. This profile is meant for players who enjoy a more hardcore experience, and should not be attempted by more casual players. For more information on Vicious Wastes, I recommend reading the page for it on the Nexus, linked here: https://www.nexusmods.com/newvegas/mods/56671?tab=description
 
 ## Mods to be aware of
 
@@ -73,4 +72,4 @@ Once you've finished installing the modlist, simply navigate to your installatio
 
 - Functional Post Game Ending - This mod allows you to continue after the game has ended, and actually SEE your choices reflected in the world. 
 
-- I Fought The Law - NCR Start - This mod places a note on Joe cobb's body should you kill him in Goodsprings. This will allow you to start I Fought The Law without working for Eddie in the NCRCF. 
+- Main Quest Tweaks - This makes a few small changes to a couple of areas in the game. For example, you may now start I Fought The Law for the NCR after completing Ghost Town Gunfight, letting you avoid working with the Powder Gangers at all.
