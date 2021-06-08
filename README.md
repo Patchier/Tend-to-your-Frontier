@@ -73,3 +73,5 @@ Once you've finished installing the modlist, simply navigate to your installatio
 - Functional Post Game Ending - This mod allows you to continue after the game has ended, and actually SEE your choices reflected in the world. 
 
 - Main Quest Tweaks - This makes a few small changes to a couple of areas in the game. For example, you may now start I Fought The Law for the NCR after completing Ghost Town Gunfight, letting you avoid working with the Powder Gangers at all.
+
+- Zion Trail - A questline with an entirely new zone to play around in, including quests, locations, and new characters. IT IS RECOMMENDED YOU PLAY THIS AFTER HONEST HEARTS.
