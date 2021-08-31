@@ -26,7 +26,37 @@ This ReadMe is designed to help you with installing and beginning your adventure
 
 - This part is self-explanatory. You'll want to go to the installation of the game, and remove all files present in the install folder (For example, steamapps/common/Fallout New Vegas) AND the Documents folder (Documents/My Games/FalloutNV)
 
-- Once done, go ahead and re-install it. This ensures that any installs you have will be totally clean, which is important for the next steps. 
+### Uninstalling the game
+
+If you have the game installed under `C:\Program Files\`, `C:\Program Files (x86)\`, your Desktop, or your Documents folders, follow these steps to remove it.
+
+#### Steam
+
+1. Open **Steam** and go to your **Library**.
+2. Find **Fallout: New Vegas** in the list.
+3. Right-click on it and select **Manage** -> **Uninstall**.
+4. Navigate to `Steam\steamapps\common\` and, if present, delete the **Fallout New Vegas** folder.
+
+#### GOG
+
+1. Open **GOG** and go to your **Library**.
+2. Find **Fallout: New Vegas** in the list.
+3. Right-click on it and select **Manage Installation** -> **Uninstall**.
+4. Navigate to where the game was installed (`GOG Galaxy\Games` by default) and, if present, delete the **Fallout New Vegas** folder.
+
+### Making a new Steam Library
+
+If you already have a Steam library set up outside of any default Windows folder, or you have the game on GOG, skip this step.
+
+A new Steam library needs to be set up to install the game on, as the default library is in a default Windows UAC-protected folder (`C:\Program Files (x86)\Steam`).
+
+1. Open **Steam** and select **Steam** -> **Settings** in the top left.
+2. In the **Downloads** tab, select **Steam Library Folders**.
+3. Select **Add Library Folder** and select a location outside of any default Windows folders.
+   * For example, `C:\Games\Steam`.
+4. Exit out of the settings when you are finished.
+
+By default, Steam only allows one library per drive, but there is a workaround. If for example you already have the default Steam library at `C:\Program Files (x86)\Steam`, but still want your game on your `C:\` drive, you will need to follow [these instructions](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to do so.
 
 - While you're here, run the game once, and after the launcher has detected your graphics settings, you may close out of it. We just needed those initial INIs to be created. They will be superceded by the ones in my modlist.
 
